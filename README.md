@@ -26,6 +26,11 @@ Here we can see the image which depicts the above steps:
 <li>I2C- Inter-Integrated Circuit, is a serial communication protocol that is used to connect multiple digital devices together on the same bus.</li>
 <li>QSPI- Quad Serial Peripheral Interface, is a high-speed serial communication protocol commonly used for data storage, memory access, and communication between microcontrollers, microprocessors, and external memory devices. It offers higher data transfer rates than traditional SPI's</li> 
 </ul>
+</details>
+
+<details open>
+<summary> SoC Design with OpenLANE</summary>
+![image](https://github.com/AkashRK1216/PES_PDWS/assets/98165735/a7344a84-b564-4461-8b40-2f7221f2d677)
 
 
 
