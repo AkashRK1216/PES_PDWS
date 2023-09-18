@@ -1,4 +1,4 @@
-
+# PES_PDWS
 <h2>Day-1: Development of opensource EDA, openLane and Sky130 Physical Design Kit</h2>
 <details open>
 <summary>Talking to Computers </summary>
@@ -10,7 +10,8 @@
   <li> The Assembler takes the output of the compiler and breaks down the RISC-V code into machine code(Binary)</li>
 </ul>
 Here we can see the image which depicts the above steps:
-![image](https://github.com/AkashRK1216/PES_PDWS/assets/98165735/ff51504f-48f3-4c9b-abcb-8ff6319236d5)# PES_PDWS
+<p>![image](https://github.com/AkashRK1216/PES_PDWS/assets/98165735/ff51504f-48f3-4c9b-abcb-8ff6319236d5)</p>
+<p>![image](https://github.com/AkashRK1216/PES_PDWS/assets/98165735/798a42f6-cb8d-4ba5-b318-44153251705b)</p>
 </details>
 
 <details open>
@@ -31,6 +32,11 @@ Here we can see the image which depicts the above steps:
 <details open>
 <summary> SoC Design with OpenLANE</summary>
 ![image](https://github.com/AkashRK1216/PES_PDWS/assets/98165735/a7344a84-b564-4461-8b40-2f7221f2d677)
+<p>OpenLANE is an EDA tool containing several PDKs completely simulate the fabrication of hardware on a computer</p>
+<h5> What is a Process Design Kit?</h5>
+<p>"PDK" a (Process Design Kit) is a set of files provided by semiconductor manufacturers to help designers use their fabrication process to create integrated circuits (ICs). It contains a comprehensive set of information, models, and files that enable designers to develop and verify their designs using the specific process technology offered by the manufacturer.</p>
+<h5>What is an Electronic Design Automation tool?</h5>
+<p>EDA stands for (Electronic Design Automation), and EDA tools refer to a category of software applications and tools used in the design and development of electronic systems, including integrated circuits (ICs), printed circuit boards (PCBs), and other electronic components.EDA tools are essential for designing and testing electronic hardware and ensuring that it functions correctly before it is manufactured.hese tools automate various aspects of the design process, making it more efficient and error-free.</p>
 
 
 
