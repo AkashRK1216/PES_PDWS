@@ -32,7 +32,7 @@ Here we can see the image which depicts the above steps:
 <details open>
 <summary> SoC Design with OpenLANE</summary>
 ![image](https://github.com/AkashRK1216/PES_PDWS/assets/98165735/a7344a84-b564-4461-8b40-2f7221f2d677)
-<p>OpenLANE is an EDA tool containing several PDKs completely simulate the fabrication of hardware on a computer</p>
+<p>OpenLANE is an EDA tool/flow containing several PDKs completely simulate the fabrication of hardware on a computer</p>
 <h5> What is a Process Design Kit?</h5>
 <p>"PDK" a (Process Design Kit) is a set of files provided by semiconductor manufacturers to help designers use their fabrication process to create integrated circuits (ICs). It contains a comprehensive set of information, models, and files that enable designers to develop and verify their designs using the specific process technology offered by the manufacturer.</p>
 <h5>What is an Electronic Design Automation tool?</h5>
